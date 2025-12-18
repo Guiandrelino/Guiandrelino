@@ -1,39 +1,13 @@
-# 👋 Olá! Eu sou o Guilherme Andrelino
+### olá! Eu sou o Guilherme Andelino 👋
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui_andrelino12/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guiandrelino) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-andrelino-974564186/)
 
-🎓 **Estudante de Engenharia de Controle e Automação (SENAI São Caetano do Sul)**
-🔧 **Técnico em Mecânica – SENAI Volkswagen (Almirante Tamandaré)**
-🤖 **Desenvolvedor de Automações, Análise de Dados e Inteligência Artificial**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiandrelino&show_icons=true&theme=gruvbox)
 
-Sou apaixonado por **automação, dados, IA e cibersegurança**, com forte interesse em **soluções práticas para a Indústria 4.0**, integração de sistemas e **segurança ofensiva (pentesting)**. Gosto de transformar problemas reais em soluções eficientes usando tecnologia.
+## tecnologias que uso no meu dia 
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-## 🌐 Conecte-se comigo
-
----
-
-## 📊 GitHub Stats
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-### 💻 Programação
-
-### ⚙️ Automação & Dados
-
-### 🧠 Inteligência Artificial
-
-### 🔐 Cibersegurança & Redes
-
-##
-
----
-
-## 📌 Interesses Atuais
-
-* Automações inteligentes (n8n + IA)
-* Análise e engenharia de dados
-* Segurança ofensiva e testes de invasão
-* Redes industriais e IoT
-* Aplicações de IA no ambiente corporativo
