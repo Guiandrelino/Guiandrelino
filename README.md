@@ -1,7 +1,7 @@
 <h1 align="center">Guilherme Andrelino</h1>
 
 <p align="center">
-  Software Engineer em formação | Backend • Inteligência Artificial • Automação • Dados
+  Software Engineer | Backend • Inteligência Artificial • Automação • Dados
 </p>
 
 <p align="center">
